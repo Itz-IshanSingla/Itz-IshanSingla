@@ -1,16 +1,75 @@
-### Hi there 👋
+# ⚡ HELLO EVERYONE ⚡
+```python
+Name = "ISHAN SINGLA"
+Profession = {
+  'Coding':  '❤️',
+  'DevOp':  '✅',
+  'System':  '🧲'
+}
+Age = "19"
+Country = "🇮🇳"
+College = "Chitkara University, Punjab"
 
-<!--
-**InducedBots/InducedBots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About= [
+  "😄I'm Still Learning Git & GitHub",
+  "☀️Python Lover",
+  "⚜️Most Of My Repositories Are For Telegram",
+  "💬 Ask me about anything, I am happy to help",
+  "⚡️ Fun-Fact: I'm Noob",
+]
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me on
+  
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/IshanSingla)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/inukaasith7/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:is.ishan.singla@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ishan.singla@hotmail.com)
+
+
+
+
+## Languages & Tools I Love❤️
+
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
+
+
+# My GitHub Stats💛
+<p align="left">
+
+[![GitHub followers](https://img.shields.io/github/followers/InducedBots.svg?label=Follow)](https://github.com/IshanSingla?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/InducedBots.svg?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/IshanSingla?tab=followers)
+[![GitHub views](https://komarev.com/ghpvc/?username=InducedBots&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/IshanSingla?tab=followers)
+
+<p align="left">
+  <a href="https://github.com/IshanSingla">
+    <img width="50%" align="left" alt="IshanSingla" src="https://metrics.lecoq.io/InducedBots?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta"/>
+  </a> 
+  <br />
+  <br />
+  <br />
+  <a href="https://github.com/IshanSingla">
+    <img width="90%" align="left" alt="IshanSingla" src="https://github-profile-trophy.vercel.app/?username=InducedBots&theme=radical"/>
+  </a> 
+  <br />
+  <br />
+  <br />
+  <a href="https://github.com/IshanSingla">
+    <img width="90%" align="left" alt="IshanSingla" src="https://activity-graph.herokuapp.com/graph?username=InducedBots&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+  </a> 
+  <a href="https://github.com/IshanSingla">
+    <img width="50%" align="left" alt="IshanSingla" src="https://github-readme-stats.vercel.app/api?username=InducedBots&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/IshanSingla">
+    <img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishansingla&hide_border=true&theme=react&layout=compact" alt="IshanSingla" />
+  </a>
+  <a href="https://github.com/IshanSingla">
+    <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=InducedBots&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="InducedBots" />
+  </a>
+</p>
